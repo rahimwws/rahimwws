@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently upgrade my skills at Web 3.0
 
-- 💬 Ask me about **HTML, CSS, JavaScript,Learning React**
+- 💬 Ask me about **HTML, CSS, JavaScript,React**,Redux,TypeScript
 
 - 📫 How to reach me **umudyan2014@gmail.com**
 
