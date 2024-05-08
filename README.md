@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahim</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Frontend developer && Mobile Developer</h3>
 
 - 🌱 I’m currently upgrade my skills at Web 3.0
 
