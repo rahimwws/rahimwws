@@ -1,14 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rahim</h1>
-<h3 align="center">Frontend developer && Mobile Developer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome+👋;+I'm+Rahimwws;" />
+</h1>
 
-- 🌱 I’m currently upgrade my skills at Web 3.0
+### Languages and Tools:
 
-- 💬 Ask me about **HTML, CSS, JavaScript,React**,Redux,TypeScript
+<code>![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)</code>
+<code>![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)</code>
+<code>![React Native](https://img.shields.io/badge/-REACTNATIVE-090909?style=for-the-badge&logo=React)</code>
+<code>![Expo](https://img.shields.io/badge/-Expo-090909?style=for-the-badge&logo=Expo)</code>
+<code>![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)</code>
+<code>![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=Mobx)</code>
+<code>![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)</code>
+<code>![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)</code>
+<code>![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)</code>
+<code>![GoogleAds](https://img.shields.io/badge/-GoogleAds-090909?style=for-the-badge&logo=GoogleAds)</code>
+<code>![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)</code>
+<code>![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=Axios)</code>
+<code>![Rest API](https://img.shields.io/badge/-RestAPI-090909?style=for-the-badge)</code>
 
-- 📫 How to reach me **umudyan2014@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+### Follow Me:
+
+<code>[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rahimwws)</code>
+<code>[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rahimwwsLife)</code>
+
