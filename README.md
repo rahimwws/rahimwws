@@ -7,7 +7,6 @@
 ### tech stack:
 
 <code>![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)</code>
-<code>![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=React)</code>
 <code>![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js)</code>
 <code>![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift)</code>
 <code>![Expo](https://img.shields.io/badge/-Expo-090909?style=for-the-badge&logo=Expo)</code>
