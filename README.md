@@ -1,6 +1,5 @@
 <h1 align="center">hi 👋 i'm rahim</h1>
-
-→ 5+ years of commercial development experience  
+ 
 → led a team of 11 people at age 19  
 → international hackathon winner from Google and ETH
 
