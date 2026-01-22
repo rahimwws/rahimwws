@@ -2,7 +2,7 @@
  
 → led a team of 11 people at age 19  
 → international hackathon winner from Google and ETH
-
+→ i build cool apps because i can
 ### tech stack:
 
 <code>![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)</code>
